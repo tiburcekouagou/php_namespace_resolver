@@ -1,0 +1,23 @@
+  {
+    "identifier": {
+      "id": "mehedidracula.php-namespace-resolver",
+      "uuid": "651dce1f-eda8-4a5b-aa26-0d1266de8ed1"
+    },
+    "version": "1.1.9",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/tiburce.kouagou/.vscode/extensions/mehedidracula.php-namespace-resolver-1.1.9",
+      "scheme": "file"
+    },
+    "relativeLocation": "mehedidracula.php-namespace-resolver-1.1.9",
+    "metadata": {
+      "id": "651dce1f-eda8-4a5b-aa26-0d1266de8ed1",
+      "publisherId": "e6a54efe-9186-460e-b45b-8da24a8b8d5f",
+      "publisherDisplayName": "Mehedi Hassan",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "installedTimestamp": 1656923450111
+    }
+  },
